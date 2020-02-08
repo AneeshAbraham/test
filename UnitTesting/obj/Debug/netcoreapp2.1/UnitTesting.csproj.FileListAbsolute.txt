@@ -1,0 +1,14 @@
+E:\Projects\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.deps.json
+E:\Projects\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.runtimeconfig.json
+E:\Projects\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.runtimeconfig.dev.json
+E:\Projects\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.dll
+E:\Projects\UnitTesting\UnitTesting\bin\Debug\netcoreapp2.1\UnitTesting.pdb
+E:\Projects\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.csprojAssemblyReference.cache
+E:\Projects\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.csproj.CoreCompileInputs.cache
+E:\Projects\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.RazorAssemblyInfo.cache
+E:\Projects\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.RazorAssemblyInfo.cs
+E:\Projects\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.AssemblyInfoInputs.cache
+E:\Projects\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.AssemblyInfo.cs
+E:\Projects\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.RazorTargetAssemblyInfo.cache
+E:\Projects\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.dll
+E:\Projects\UnitTesting\UnitTesting\obj\Debug\netcoreapp2.1\UnitTesting.pdb
