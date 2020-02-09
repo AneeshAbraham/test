@@ -24,5 +24,13 @@ namespace UnitTesting.Controllers
             return await _dataManager.GetFormattedData(data);
 
         }
+
+        [Route("calculate")]
+        [HttpGet]
+        public async Task<string> GetResult([FromQuery] string data)
+        {
+            return await _dataManager.MultiplyByTen(data);
+
+        }
     }
 }

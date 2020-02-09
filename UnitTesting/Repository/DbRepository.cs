@@ -11,10 +11,16 @@ namespace UnitTesting.Repository
         {
             return await Task.FromResult("Hello from repository");
         }
+
+        public async Task<int> GetMultipleOfThis(int inputValue)
+        {
+            return await Task.FromResult(inputValue*10);
+        }
     }
 
     public interface IDbRepository
     {
         Task<string> GetData();
+        Task<int> GetMultipleOfThis(int inputValue);
     }
 }
